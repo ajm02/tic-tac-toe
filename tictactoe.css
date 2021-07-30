@@ -1,0 +1,15 @@
+.title {
+    -fx-font-size: 50px;
+    -fx-fill: white;
+    -fx-font-family: 'Niagara Solid';
+}
+
+.text {
+    -fx-font-size: 25px;
+    -fx-fill: white;
+    -fx-font-family: 'Niagara Solid';
+}
+
+.button {
+    -fx-background-color: blue;
+}
